@@ -1,3 +1,2 @@
-# roto6ai_doc
+# roto6ai
 
-設計書とかをいれます
